@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="api" verbose="3" parallel="none">
+
+    <suite-files>
+        <suite-file path="src/test/java/suites/current/current.xml"/>
+    </suite-files>
+
+</suite>
